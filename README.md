@@ -3,6 +3,7 @@
 ## 2017/2018
 
 * [Historický vývoj veřejné správy v českých zemích](SSP--Historický-vývoj-veřejné-správy-v-českých-zemích.md), SSP, duben 2018
+* [Program rozvoje města Liberec – Infrastruktura](RPE--Program-rozvoje-města-Liberec-Infrastruktura.md), RPE, prosinec 2017
 
 ---
 
