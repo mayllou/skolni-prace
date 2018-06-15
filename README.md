@@ -2,6 +2,7 @@
 
 ## 2017/2018
 
+* [Babišův daňový balíček](PR1--Babišův-daňový-balíček.md), PR1, červen 2018
 * [Historický vývoj veřejné správy v českých zemích](SSP--Historický-vývoj-veřejné-správy-v-českých-zemích.md), SSP, duben 2018
 * [Program rozvoje města Liberec – Infrastruktura](RPE--Program-rozvoje-města-Liberec-Infrastruktura.md), RPE, prosinec 2017
 
